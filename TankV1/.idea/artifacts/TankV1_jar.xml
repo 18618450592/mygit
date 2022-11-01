@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact name="TankV1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TankV1_jar</output-path>
+    <root id="root">
+      <element id="archive" name="TankV1.jar">
+        <element id="module-output" name="TankV1" />
+      </element>
+      <element id="library" level="project" name="Maven: org.junit.platform:junit-platform-engine:1.9.1" />
+      <element id="library" level="project" name="Maven: org.junit.platform:junit-platform-commons:1.9.1" />
+      <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-api:5.9.1" />
+      <element id="library" level="project" name="Maven: org.opentest4j:opentest4j:1.2.0" />
+      <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter:5.9.1" />
+      <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
+      <element id="library" level="project" name="Maven: org.apiguardian:apiguardian-api:1.1.2" />
+      <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-params:5.9.1" />
+      <element id="library" level="project" name="Maven: junit:junit:4.12" />
+      <element id="library" level="project" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.9.1" />
+    </root>
+  </artifact>
+</component>
